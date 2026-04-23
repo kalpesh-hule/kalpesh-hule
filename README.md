@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kalpesh Hule
 
-<!--
-**kalpesh-hule/kalpesh-hule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quality & Operations Analyst @ Accenture India (5+ years)
+Transitioning to Business Analytics | MMS – JBIMS Mumbai (2026–2029)
 
-Here are some ideas to get you started:
+## Skills
+SQL (MySQL) · Power BI · MS Excel (Advanced)
+Root Cause Analysis · Process Improvement · DMAIC
+Lean Six Sigma White Belt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects (in progress)
+- HR Attrition SQL Analysis — *uploading May 2026*
+- Superstore Sales Power BI Dashboard — *uploading May 2026*
+- Quality Audit Tracker (Excel) — *uploading May 2026*
+
+## Certifications
+- Lean Six Sigma White Belt | CSSC
+- MySQL, Power BI, Excel | Simplilearn
+- Agentic AI | Accenture Internal
+
+📍 Navi Mumbai | Open to BA / Analyst roles
+📧 kalpeshhule14@gmail.com
