@@ -1,7 +1,7 @@
 # Kalpesh Hule
 
-Quality & Operations Analyst @ Accenture India (5+ years)
-Transitioning to Business Analytics | MMS – JBIMS Mumbai (2026–2029)
+Quality Auditing Analyst → GRC & Business Analyst | Data Governance | 
+Power BI · MySQL · Six Sigma · ISO 27001 | 5 Yrs Accenture | JBIMS MMS’29 | Open to GRC / BA Roles in Mumbai
 
 ## Skills
 SQL (MySQL) · Power BI · MS Excel (Advanced)
