@@ -49,7 +49,7 @@ Lean Six Sigma White Belt · Agentic AI (Accenture) · Generative AI (Accenture)
 
 🔍 Actively targeting **Operations Excellence / Business Excellence / Process Excellence Analyst** roles at technology, fintech, or BFSI companies in **Mumbai and Navi Mumbai**
 
-📅 Notice period: **30 days**
+📅 Notice period: **Immediate Joiner**
 
 ---
 
