@@ -28,7 +28,7 @@ I am a Process Excellence professional with 5 years at Accenture in quality audi
 `Process Improvement` `Quality Auditing` `Root Cause Analysis (5-Why)` `SOP Design` `Calibration` `SLA Management` `KPI Monitoring` `Lean Six Sigma White Belt`
 
 **Data & Reporting:**  
-`Advanced Excel` `VLOOKUP` `Pivot Tables` `Data Validation` `Dashboard Automation` `MIS Reporting` `SQL (Learning — Udacity)`
+`Advanced Excel` `VLOOKUP` `Pivot Tables` `Data Validation` `Dashboard Automation` `MIS Reporting` `SQL` `Power BI`
 
 **Tools:**  
 `Microsoft Excel` `Microsoft PowerPoint` `Google Workspace` `Microsoft Copilot` `Microsoft Teams`
